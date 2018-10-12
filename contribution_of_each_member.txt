@@ -1,0 +1,11 @@
+Brief summary of contribution of each member:
+
+The project required theoretical background on the Bayes decision rule. Discussing among group members greatly helped in building a strong understanding.
+
+Almost every chunk of the project had contributions from each of the members. But the following are the specific tasks that we worked on:
+
+1. Shweta: Finding the number of quantization levels (Lj) for each dimension j,
+Sorting to get initial bin boundaries, Bin boundary optimization, Ideas on how to find linear address given a tuple, k smoothing, Initial draft of report
+
+2. Subhadarshi: k smoothing, Ideas on how to find linear address given a tuple, Bin boundaries optimization, optimizing the run time of code by removing redundant computations,
+Final draft of report using Latex
